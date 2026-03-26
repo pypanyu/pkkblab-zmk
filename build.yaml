@@ -14,7 +14,7 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: pkkblab _left
+    shield: pkkblab_left
   - board: nice_nano_v2
     shield: pkkblab_right  
   - board: nice_nano_v2
