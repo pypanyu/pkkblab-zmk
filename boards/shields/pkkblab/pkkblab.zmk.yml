@@ -1,0 +1,11 @@
+file_format: "1"
+id: pkkblab
+name: pkkblab
+type: shield
+url: https://github.com/
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - pkkblab_left
+  - pkkblab_right

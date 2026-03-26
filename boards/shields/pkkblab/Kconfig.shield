@@ -1,0 +1,5 @@
+config SHIELD_PKKBLAB_LEFT
+    def_bool $(shields_list_contains,PKKBLAB_left)
+
+config SHIELD_PKKBLAB_RIGHT
+    def_bool $(shields_list_contains,PKKBLAB_right)
