@@ -1,2 +1,1 @@
-# pkkblab-zmk
-split36-40
+zmk无线分体键盘pkkblab
