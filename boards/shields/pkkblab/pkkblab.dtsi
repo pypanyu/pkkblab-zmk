@@ -1,4 +1,4 @@
-#include <physical_layouts.dtsi>
+#include "physical_layouts.dtsi"
 
 / {
     pkkblab_layout0: pkkblab_layout_0 {
