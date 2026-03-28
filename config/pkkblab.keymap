@@ -118,7 +118,7 @@
             bindings = <
 &kp ESC         &kp LA(NUMBER_1)  &kp LA(NUMBER_3)  &kp MINUS           &kp EQUAL   &kp LEFT_ARROW     &kp RIGHT_ARROW  &kp UP_ARROW   &kp DOWN_ARROW  &kp BACKSPACE
 &kp LG(TAB)     &kp LC(N)         &kp LG(D)         &kp LG(E)           &kp LA(F4)  &kp HOME           &kp END          &kp SEMICOLON  &kp APOS        &kp ENTER
-&kp CAPS        &kp LC(A)         &kp LC(C)         &kp LC(V)           &kp ENTER   &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp SEMI       &kp APOS        &kp RSHFT
+&kp CAPS        &kp LC(A)         &kp LC(C)         &kp LC(V)           &kp ENTER   &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp SEMI       &kp APOS        &kp QUESTION
 &kp LEFT_SHIFT  &kp LGUI          &kp LALT          &taptap LSHIFT TAB  &kp SPACE   &kp BACKSPACE      &kp SPACE        &kp LALT       &kp LGUI        &kp DEL
             >;
         };
