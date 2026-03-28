@@ -14,8 +14,8 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: pkkblab_left
+    shield: split36_left
   - board: nice_nano_v2
-    shield: pkkblab_right  
+    shield: split36_right  
   - board: nice_nano_v2
     shield: settings_reset
