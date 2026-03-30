@@ -58,7 +58,7 @@
         zmk,physical-layout = &pkkblab_layout;
     };
 
- &dactyl_layout{
+ &pkkblab_layout{
 
 	transform = <&default_transform>;
 
