@@ -1,0 +1,5 @@
+if(CONFIG_SHIELD_PKKBLAB_LEFT OR CONFIG_SHIELD_PKKBLAB_RIGHT)
+  zephyr_include_directories(${CMAKE_CURRENT_SOURCE_DIR})
+  zephyr_library()
+  zephyr_library_sources(pkkblab.c)
+endif()
