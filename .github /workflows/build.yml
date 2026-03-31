@@ -1,5 +1,9 @@
-name: Build ZMK Firmware
-on: [push, pull_request, workflow_dispatch]
+name: Build ZMK firmware
+
+on:
+  push:
+    branches: [ main, pkkblab ] # 包含你的分支名
+  workflow_dispatch: # 必须保留这一行，才能手动触发]
 
 jobs:
   build:
