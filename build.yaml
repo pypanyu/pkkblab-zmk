@@ -21,6 +21,3 @@ include:
     shield: pkkblab_right  
   - board: nice_nano_v2
     shield: settings_reset
-    
-config:
-  ZMK_KEYBOARD_NAME: "pkkblab"
