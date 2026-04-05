@@ -1,10 +1,9 @@
 #include <dt-bindings/zmk/matrix_transform.h>
-#include <physical_layouts.dtsi>
-
+#include "physical_layouts.dtsi"
 / {
-    physical_layout0: physical_layout_0 {
+    pkkblab_layout0: pkkblab_layout_0 {
         compatible = "zmk,physical-layout";
-        display-name = "default_layout";
+        display-name = "pkkblab";
 
         kscan = <&kscan0>;
         transform = <&matrix_transform0>;
