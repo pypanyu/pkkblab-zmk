@@ -1,7 +1,7 @@
 #include <dt-bindings/zmk/matrix_transform.h>
 #include "physical_layouts.dtsi"
 / {
-    pkkblab_layout0: pkkblab_layout_0 {
+    pkkblab_layout: pkkblab_layout {
         compatible = "zmk,physical-layout";
         display-name = "pkkblab";
 
